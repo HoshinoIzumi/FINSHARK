@@ -1,0 +1,10 @@
+# IDE
+.idea/
+.vscode/
+
+# .NET
+**/bin/
+**/obj/
+
+# OS
+.DS_Store
