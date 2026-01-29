@@ -8,5 +8,5 @@ public class Comment
     public DateTime CreatedOn { get; set; } = DateTime.Now;
     //Foreign Key
     public int? StockId { get; set; }
-    public Stock? Stock { get; set; }
+    public Stocks? Stocks { get; set; }
 }
